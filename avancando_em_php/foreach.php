@@ -14,9 +14,9 @@ $conta3 = [
 ];
 
 $contaCorrente = [
-    $conta1, 
-    $conta2, 
-    $conta3
+    5658989 => $conta1, 
+    7844545 => $conta2, 
+    1212332 => $conta3
 ];
 
 
